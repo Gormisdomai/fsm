@@ -97,7 +97,7 @@ if (typeof btoa == 'undefined') {
 
 	</script>
 </head><body>
-	<h1>Beige UI</h1>
+	<h1>Beige UI.</h1>
 	<h2>Blockchain Made Boring.</h2>
 	<canvas id="canvas" width="800" height="600">
 		<span class="error">Your browser does not support<br>the HTML5 &lt;canvas&gt; element</span>
